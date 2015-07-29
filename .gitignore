@@ -26,5 +26,11 @@
 *.exe
 *.out
 *.app
+
+# User Files
 /Debug
 /Release
+/ipch
+*.opensdf
+*sdf
+*suo
